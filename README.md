@@ -33,7 +33,7 @@ When evaluated on completely held-out participants, the model achieved **87.5% a
 These results suggest that changes in **frontal EEG activity over the full design session** may contain useful information for distinguishing AI-assisted from non-AI design conditions.
 
 <p align="center">
-  <img src="images/eeg_classification_results.png" alt="EEG Classification Performance" width="850">
+  <img src="output (1).png" alt="EEG Classification Performance" width="850">
 </p>
 
 <p align="center">
