@@ -3,7 +3,6 @@ Machine learning analysis of EEG-derived features during architectural design ta
 
 
 # Methodology
-# Methodology
 <p align="center">
-<img src="" align="center" width="75%"/>
+<img src="methodology.png" align="center" width="75%"/>
 </p>
